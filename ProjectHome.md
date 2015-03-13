@@ -1,0 +1,1 @@
+A multi-touch 2 finger based virtual keyboard for mobile, digital players, phone, tablets and the related where a multi-touch display is supported.
